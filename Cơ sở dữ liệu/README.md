@@ -1,6 +1,7 @@
 **BÀI TẬP THỰC HÀNH MÔN HỌC CƠ SỞ DỮ LIỆU**
 
 ===============================================================================================================================================================
+
 **Cơ sở dữ liệu quản lý bán hàng ( QLBH )** gồm có các quan hệ sau:
 
 **KHACHHANG** (MAKH, HOTEN, DCHI, SODT, NGSINH, DOANHSO, NGDK)
