@@ -1,0 +1,14 @@
+INSERT INTO MONHOC (MAMH, TENMH, TCLT, TCTH, MAKHOA) VALUES
+('THDC', 'Tin hoc dai cuong', 4, 1, 'KHMT'),
+('CTRR', 'Cau truc roi rac', 5, 0, 'KHMT'),
+('CSDL', 'Co so du lieu', 3, 1, 'HTTT'),
+('CTDLGT', 'Cau truc du lieu va giai thuat', 3, 1, 'KHMT'),
+('PTTKTT', 'Phan tich thiet ke thuat toan', 3, 0, 'KHMT'),
+('DHMT', 'Do hoa may tinh', 3, 1, 'KHMT'),
+('KTMT', 'Kien truc may tinh', 3, 0, 'KTMT'),
+('TKCSDL', 'Thiet ke co so du lieu', 3, 1, 'HTTT'),
+('PTTKHTTT', 'Phan tich thiet ke he thong thong tin', 4, 1, 'HTTT'),
+('HDH', 'He dieu hanh', 4, 0, 'KTMT'),
+('NMCNPM', 'Nhap mon cong nghe phan mem', 3, 0, 'CNPM'),
+('LTCFW', 'Lap trinh C for win', 3, 1, 'CNPM'),
+('LTHDT', 'Lap trinh huong doi tuong', 3, 1, 'CNPM');
